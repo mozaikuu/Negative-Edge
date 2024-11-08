@@ -1,4 +1,4 @@
-basically im just
+basically its just
 
 1. -  setting path (you should set ur own path)
 
